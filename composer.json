@@ -1,0 +1,9 @@
+{
+    "require": {
+        "monolog/monolog": "^2.5",
+        "twig/twig": "^3.3"
+    },
+    "autoload": {
+        "files": ["src/LoggerWrapper.php"]
+    }
+}
